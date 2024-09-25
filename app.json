@@ -1,0 +1,7 @@
+{
+  "name": "signInTask",
+  "displayName": "signInTask",
+  "android": {
+    "package": "com.signInTask"
+  }
+}
